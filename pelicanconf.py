@@ -2,14 +2,14 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'KMOL'
-SITENAME = 'CMSimfly 網際內容管理'
+AUTHOR = 'cd2022bg6'
+SITENAME = '第六組協同管理設計'
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False
 
-#PATH = 'markdown'
+PATH = 'markdown'
 
-#OUTPUT_PATH = 'blog'
+OUTPUT_PATH = 'blog'
 
 TIMEZONE = 'Asia/Taipei'
 
